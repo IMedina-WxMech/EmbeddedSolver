@@ -599,8 +599,8 @@ Re = 150   # 1/100 #Reynolds  Number
 V =  1/Re           #Viscocity =1/Re
 radius = 0.5
 save = True         #Saves the solved values for plotting in a seperate code
-X_length = 15
-Y_length  = 1
+X_length = 10
+Y_length  = 5
 center = np.array([[3,2.5]])
 #Data = Dataset('/Users/isaac/desktop/CFDFinal_RE150_dx110.nc') ## Optional Data read in to restart code
 
